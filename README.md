@@ -50,6 +50,7 @@ module digital9(out,clk,rst);
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**<img width="778" height="357" alt="image" src="https://github.com/user-attachments/assets/95fd07d9-59ef-4b65-87e9-36407f943c6d" />
+<img width="1057" height="538" alt="Screenshot 2026-06-08 094559" src="https://github.com/user-attachments/assets/219d24ac-1868-4613-b119-9f870f9e9ce2" />
 
 
 **RESULTS** Thus, To implement 4 Bit Ripple Counter using verilog and validating their functionaly using their functional tables is executed succsessfully.
